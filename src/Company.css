@@ -1,0 +1,25 @@
+.company {
+  .company-title-wrapper {
+    display: flex;
+    font-weight: 700;
+    font-size: 15px;
+
+    .company-city {
+      margin-left: auto;
+    }
+  }
+
+  .company-description {
+    font-size: 12px;
+    font-style: italic;
+  }
+
+  .company-position {
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .company-content {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,22 @@
+.section {
+  margin-bottom: 7px;
+
+  .section-title {
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 800;
+
+    margin-bottom: 5px;
+  }
+
+  .section-content {
+    font-size: 13px;
+  }
+
+  &.education {
+    .section-content {
+      font-style: italic ;
+      margin-left: 20px;
+    }
+  }
+}
