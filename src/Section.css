@@ -19,4 +19,10 @@
       margin-left: 20px;
     }
   }
+
+  &.skills {
+    .section-content {
+      display: flex;
+    }
+  }
 }
