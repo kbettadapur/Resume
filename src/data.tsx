@@ -43,7 +43,7 @@ const data: ResumeData = {
   },
   "sections": {
     "summary": {
-      "content": "I'm a frontend developer with a strong background in building dynamic, user-friendly web applications using modern JavaScript frameworks like React and Next.js. I have extensive experience in crafting solutions that are scalable and performant. Additionally, I’m passionate about mentoring other engineers and fostering a collaborative team environment. I'm eager to expand my engineering scope and assume more ownership so I can play a key role in product direction."
+      "content": "I am a frontend developer with a strong background in building dynamic, user-friendly web applications that are performant at scale. Additionally, I prioritize peer mentorship and have a demonstrated history of my ability to lead working teams to a successful deliverable. I'm always eager to expand my engineering scope and assume more ownership so I can play a key role in product direction."
     },
     "education": {
       "title": "EDUCATION",
@@ -62,7 +62,7 @@ const data: ResumeData = {
         {
           "name": "BLOCK (SQUARE)",
           "city": "Seattle, WA",
-          "company_description": "(Providing small businesses with financial tools and services; NYSE: SQ)",
+          "company_description": "Providing small businesses with financial tools and services; NYSE: SQ",
           "positions": [
             "Senior Software Engineer, Onboarding (August 2022 - Present)",
             "Software Engineer II, Onboarding (May 2021 - August 2022)",
@@ -72,7 +72,7 @@ const data: ResumeData = {
             "Working on Square merchant onboarding (squareup.com/signup). Focused on reducing friction for merchants to take their first payment.",
             "Led a working team where I identified and drove fixes for performance bottlenecks. Lowered the legacy Ember app load time (LCP) from 18s to 7s.",
             "Contributed to the Ember → NextJS frontend migration, ensuring total feature parity and a smooth cutover from legacy to new. This effort further improved the LCP to < 4s.",
-            "Owner of Block's third party integration with Woflow, our restaurant menu migrator. Led the frontend effort to allow our Woflow usage to expand to other verticals (retail and health & beauty). Diagnosed and drove flow improvements to reduce oncall noise.",
+            "Owner of Block's third party integration with Woflow, our restaurant menu migrator. Led the frontend effort to enable our Woflow usage to expand to other verticals (retail and health & beauty). Diagnosed and drove flow improvements to reduce oncall noise.",
             "Led the engineering effort to route upmarket merchants (GPV > 250k) through a more tailored onboarding flow. Leveraged third party integrations Chili Piper and Drift.js, enabling merchants to schedule calls and text chat with ADRs in the browser.",
             "Conducted 100+ engineering interviews."
           ]
@@ -80,7 +80,7 @@ const data: ResumeData = {
         {
           "name": "DOCUSIGN",
           "city": "Seattle, WA",
-          "company_description": "(Sending and managing electronic agreements; NASDAQ: DOCU)",
+          "company_description": "Sending and managing electronic agreements; NASDAQ: DOCU",
           "positions": [
             "Software Engineer II, Signing (August 2020 - May 2021)",
             "Software Engineer I, Signing (Feb 2019 - August 2020)"
@@ -96,7 +96,7 @@ const data: ResumeData = {
         {
           "name": "JPMORGAN CHASE",
           "city": "Jersey City, NJ",
-          "company_description": "(Multinational investment bank & financial services; NYSE: JPM)",
+          "company_description": "Multinational investment bank & financial services; NYSE: JPM",
           "positions": [
             "Software Engineering Intern (Summer 2018)",
           ],

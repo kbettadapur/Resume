@@ -12,7 +12,7 @@ function Header() {
         <a href="/" className="linkedin-contact">https://linkedin.com/in/kirin-bettadapur</a>
       </div>
 
-      <hr />
+      <hr className="header-separator"/>
     </>
   );
 }
